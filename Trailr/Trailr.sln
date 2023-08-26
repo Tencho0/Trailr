@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33723.286
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trailr", "Trailr.csproj", "{A4D4B60E-ABBB-4234-A93A-8BAAF3929215}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Trailr", "Trailr.csproj", "{A4D4B60E-ABBB-4234-A93A-8BAAF3929215}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trailr.Tests", "..\Trailr.Tests\Trailr.Tests.csproj", "{D3908037-4F6D-4610-8094-E9E7AD18660C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{A4D4B60E-ABBB-4234-A93A-8BAAF3929215}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A4D4B60E-ABBB-4234-A93A-8BAAF3929215}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A4D4B60E-ABBB-4234-A93A-8BAAF3929215}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3908037-4F6D-4610-8094-E9E7AD18660C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3908037-4F6D-4610-8094-E9E7AD18660C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3908037-4F6D-4610-8094-E9E7AD18660C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3908037-4F6D-4610-8094-E9E7AD18660C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
